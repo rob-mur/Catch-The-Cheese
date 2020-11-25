@@ -1,6 +1,6 @@
 # Catch-The-Cheese
 
-Here is the current build of Catch the Cheese. 
+Here is the current build of Catch the Cheese.  Please watch this repository if you'd like to be notified as I release versions.
 
 Notes:
 
