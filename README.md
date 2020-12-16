@@ -8,3 +8,4 @@ Notes:
 - q to attack
 - tab to change weapon
 - arrows for movement
+- e drops a mouse trap
