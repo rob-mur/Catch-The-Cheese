@@ -9,3 +9,4 @@ Notes:
 - tab to change weapon
 - arrows for movement
 - e drops a mouse trap
+- when the jetpack is equiped, hold w to use it
