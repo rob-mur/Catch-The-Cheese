@@ -1,6 +1,7 @@
 # Catch-The-Cheese
 
 Here is the current build of Catch the Cheese.  Please watch this repository if you'd like to be notified as I release versions.
+If you spot a bug, or have a feature request, please post an issue on this github page!
 
 28/02/2021:
 There is now a leaderboard for you to comepte with each other! Currently it just tracks the number of levels completed, but will be expanded in the future.
