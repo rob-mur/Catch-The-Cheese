@@ -12,6 +12,9 @@ Controls:
 - tab to change weapon
 - arrows for movement
 
+14/03/2021:
+There is now a login system that will make tracking stats more secure, and a better leaderboard for showing the results.
+
 10/03/2021:
 Functionality is now fully back to pick up items as you play which allows you to replenish ammo supplies. Can also pick up accessories such as the cheese grater for extra armour, and traps can now be dropped.
 
