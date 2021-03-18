@@ -12,6 +12,9 @@ Controls:
 - tab to change weapon
 - arrows for movement
 
+18/03/2021:
+Minor update to explosions to include a small knockback. Traps have also had their damage halved.
+
 14/03/2021:
 There is now a login system that will make tracking stats more secure, and a better leaderboard for showing the results.
 
