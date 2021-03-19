@@ -12,6 +12,9 @@ Controls:
 - tab to change weapon
 - arrows for movement
 
+19/03/2021:
+New enemy type, fixed graphical bug with health bars. The difficulty now ramps as you play to give you time to get into each game.
+
 18/03/2021:
 Minor update to explosions to include a small knockback. Traps have also had their damage halved.
 
