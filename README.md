@@ -12,6 +12,9 @@ Controls:
 - tab to change weapon
 - arrows for movement
 
+20/03/2021:
+Spike levels will appear after 5 successful room clears!
+
 19/03/2021:
 New enemy type, fixed graphical bug with health bars. The difficulty now ramps as you play to give you time to get into each game.
 
