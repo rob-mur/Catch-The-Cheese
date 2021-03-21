@@ -12,6 +12,10 @@ Controls:
 - tab to change weapon
 - arrows for movement
 
+21/03/2021:
+Testing out a monetisation option of mining a small amount of Monero whilst the game is played. This is just a test feature, grab the main release
+unless you are testing.
+
 20/03/2021:
 Spike levels will appear after 5 successful room clears!
 
