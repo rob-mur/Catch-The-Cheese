@@ -12,6 +12,9 @@ Controls:
 - tab to change weapon
 - arrows for movement
 
+25/03/2021:
+Update to enemy AI to make them less likely to run it down + minor bug fixes.
+
 22/03/2021:
 Added a new set of levels with moving platforms and fixed a bug around being attacked by a dead enemy.
 
